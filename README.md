@@ -1,41 +1,41 @@
 <h1> Challenge-Amigo-Secreto</h1>
 
-En este desafio, desarrollaremos una aplicación que permita a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quien es el "amigo secreto"
+En este desafío, desarrollaremos una aplicación que permita a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
 
-**Agregar funciones que correspondan a la accion de la wed**
+**Agregar funciones que correspondan a la acción de la wed.**
 
-1.Crear una funcion para agregarAmigos.
+1. Crear una función para agregar Amigos.
   
-2.crear una funcion limpiar caja.  
+2. Crear una función limpiar_caja.  
   
-3.crear una funcion mostrar amigo.  
+3. Crear una función mostrar amigo.  
 
-4.Funcion sortear amigo. 
+4. Función sortear amigo. 
 
-5.le agrege comandos que cuando me muestre la respuesta del sorteo, se oculte el listado de amigos del array y que aparezca cada vez que se quiera agregar otro nombre al listado.
+5. le agregué comandos que, cuando me muestre la respuesta del sorteo, se oculte el listado de amigos del array y que aparezca cada vez que se quiera agregar otro nombre al listado.
 
-<h1>Se aplico conceptos basicos como: </h1>
+<h1>Se aplicó conceptos básicos como: </h1>
 
-- variables.
+- Variables.
 
-- funciones.
+- Funciones.
 
-- condicionales.
+- Condicionales.
 
-- array.
+- Array.
 
-<h1>Como usarlo</h1>
+<h1>Cómo usarlo</h1>
 
-1.ingrese los nombres que quiera sortear.
+1. ingrese los nombres que quiera sortear.
 
-2.presione el boton añadir.
+2. presione el botón añadir.
 
-3.los nombres seran reflejados en la pantalla.
+3. Los nombres serán reflejados en la pantalla.
 
-4.al completar tu lista de amigos.
+4. al completar tu lista de amigos.
 
-5.presione el boton sortear para ver la respuesta.
+5. Presione el botón sortear para ver la respuesta.
 
-<h1>Aqui te dejo el juego si quieres probarlo</h1>
+<h1>🕹️Aquí te dejo el juego, si quieres probarlo.</h1>
 
-[!Clickea para iniciar el juego¡](http://127.0.0.1:5500/index.html)
+[**¡Clickea para iniciar el juego!**](https://boris-rv.github.io/Challenge-Amigo-Secreto/)
