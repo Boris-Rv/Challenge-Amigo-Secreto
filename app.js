@@ -2,8 +2,7 @@ let listadoDeAmigos= [];
 
 function agregarAmigo(){
      let ingresarNombres = document.getElementById('amigo').value;
-     //console.log(typeof(ingresarNombres));
-     
+    
     if(ingresarNombres==='') {
         alert('Por favor, inserte un nombre');
         return;
