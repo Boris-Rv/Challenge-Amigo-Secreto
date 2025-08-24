@@ -1,4 +1,4 @@
-<h1> Challege-Amigo-Secreto</h1>
+<h1> Challenge-Amigo-Secreto</h1>
 
 En este desafio, desarrollaremos una aplicación que permita a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quien es el "amigo secreto"
 
